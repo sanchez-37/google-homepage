@@ -1,0 +1,1 @@
+Clone the look and feel of the google home page solely from observation. 
