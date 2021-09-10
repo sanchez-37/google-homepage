@@ -1,5 +1,5 @@
 img {
-    width: 40%;
+    width: 20%;
     height: auto;
 }
 ul {
@@ -15,7 +15,8 @@ li {
 
 a {
     color: black;
-
+    padding: 10px; 
+    padding-top: 15px;
 }
 
 a:link {
@@ -30,4 +31,10 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
+}
+
+.sign-in {
+    color: white;
+    background: #4285f4;
+    padding-top: 10px;
 }
